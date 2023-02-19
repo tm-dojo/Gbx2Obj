@@ -15,6 +15,7 @@ List<string> getAllFoldersWithGbxFiles(string blocksPath)
 
     foreach (string folder in folders)
     {
+
         Console.WriteLine(folder);
     }
 
