@@ -1,0 +1,15 @@
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\bin\Debug\net7.0\Gbx2Obj.exe
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\bin\Debug\net7.0\Gbx2Obj.deps.json
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\bin\Debug\net7.0\Gbx2Obj.runtimeconfig.json
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\bin\Debug\net7.0\Gbx2Obj.dll
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\bin\Debug\net7.0\Gbx2Obj.pdb
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\obj\Debug\net7.0\Gbx2Obj.csproj.AssemblyReference.cache
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\obj\Debug\net7.0\Gbx2Obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\obj\Debug\net7.0\Gbx2Obj.AssemblyInfoInputs.cache
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\obj\Debug\net7.0\Gbx2Obj.AssemblyInfo.cs
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\obj\Debug\net7.0\Gbx2Obj.csproj.CoreCompileInputs.cache
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\obj\Debug\net7.0\Gbx2Obj.dll
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\obj\Debug\net7.0\refint\Gbx2Obj.dll
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\obj\Debug\net7.0\Gbx2Obj.pdb
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\obj\Debug\net7.0\Gbx2Obj.genruntimeconfig.cache
+C:\Users\Bux\source\repos\Gbx2Obj\Gbx2Obj\obj\Debug\net7.0\ref\Gbx2Obj.dll
