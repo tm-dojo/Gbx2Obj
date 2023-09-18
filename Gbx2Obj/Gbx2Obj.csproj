@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="GBX.NET" Version="1.2.2" />
+    <PackageReference Include="GBX.NET.LZO" Version="1.0.3" />
+  </ItemGroup>
+
 </Project>
